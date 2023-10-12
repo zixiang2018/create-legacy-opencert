@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "script": "npx ts-node index.ts"
+  },
+  "dependencies": {
+    "@govtechsg/open-certificate": "^2.0.63"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "ts-node": "^10.9.1"
+  }
+}
